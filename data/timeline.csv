@@ -1,0 +1,15 @@
+date,track,item,evidence,url
+2026-01-29,Agent capability,METR Time Horizon 1.1 reports a post-2024 P50 task-horizon doubling estimate of about 89 days,A,https://metr.org/blog/2026-1-29-time-horizon-1-1/
+2026-02-03,Agent Control,International AI Safety Report 2026 synthesizes monitoring sandboxing provenance and human-oversight controls,A,https://internationalaisafetyreport.org/sites/default/files/2026-02/international-ai-safety-report-2026.pdf
+2026-03-05,Agent Control,OpenAI reports current reasoning models struggle to deliberately control their chain of thought,A/B,https://openai.com/index/reasoning-models-chain-of-thought-controllability/
+2026-05-07,Verifiable Search,DeepMind reports expanded real-world impact and infrastructure use of AlphaEvolve,B,https://deepmind.google/blog/alphaevolve-impact/
+2026-05-13,Verifiable Search,AEvo proposes meta-editing the search procedure or agent context,C,https://arxiv.org/abs/2605.13821
+2026-06-18,Agent Control,Google DeepMind publishes its AI Control Roadmap,B,https://deepmind.google/blog/securing-the-future-of-ai-agents/
+2026-07-09,RSI,A survey separates bounded self-refinement from open-ended recursive self-improvement,C,https://arxiv.org/abs/2607.07663
+2026-09-06,RSI,OpenAI reports reaching an automated research intern milestone under human supervision,B,https://openai.com/index/research-acceleration-view-inside-openai/
+2026-09-10,RSI,A new position paper proposes a staged roadmap toward genuine RSI,C,https://arxiv.org/abs/2609.11873
+2026-09-14,Verifiable Search,AlgoEvo introduces experience-guided self-evolving agentic search,C,https://arxiv.org/abs/2609.15820
+2026-09-15,Decision Models,TypeSafe AI releases Jev in early access,B,https://typesafe.ai/blog/introducing-system-one-models-and-jev
+2026-09-18,RSI,Anthropic updates internal measurements of AI participation in model R&D,B,https://www.anthropic.com/institute/recursive-self-improvement
+2026-09-20,Decision Models,An independent repository publishes reproducible early Jev measurements,C,https://github.com/WallerChen/jev-measured
+
