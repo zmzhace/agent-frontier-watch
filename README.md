@@ -41,9 +41,11 @@
 
 - [01 · RSI 与自动化 AI 研发](docs/01-rsi.md)
 - [02 · Jev 与专用决策模型](docs/02-decision-models.md)
+- [Jev 深度研究：证据、边界与落地测试](docs/06-jev-deep-dive.md)
 - [03 · 可验证搜索与 Agentic Evolution](docs/03-verifiable-search.md)
 - [04 · Agent Control](docs/04-agent-control.md)
 - [时间线与来源](data/timeline.csv)
+- [待研究计划](RESEARCH_PLAN.md)
 
 ## 证据等级
 
@@ -66,4 +68,3 @@
 - 披露足以改变我们对能力边界或风险判断的新数据。
 
 不收录只有演示视频、没有方法说明的产品宣传。
-
