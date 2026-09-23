@@ -42,7 +42,7 @@
 - [01 · RSI 与自动化 AI 研发](docs/01-rsi.md)
 - [2026 RSI 路线图：项目、证据与边界](docs/07-rsi-landscape-2026.md)
 - [RSI 成熟度审查：哪些进展已越过演示阶段](docs/08-rsi-maturity-review.md)
-- [Atlas-RSI：集成式受约束自我改进原型](prototype/README.md)
+- [Atlas-RSI：受约束、可复现的自我改进控制面](https://github.com/zmzhace/atlas-rsi)
 - [02 · Jev 与专用决策模型](docs/02-decision-models.md)
 - [Jev 深度研究：证据、边界与落地测试](docs/06-jev-deep-dive.md)
 - [03 · 可验证搜索与 Agentic Evolution](docs/03-verifiable-search.md)
