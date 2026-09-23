@@ -5,11 +5,15 @@ date,track,item,evidence,url
 2026-03-24,RSI,Meta Hyperagents makes the meta-agent and future-improvement procedure editable across four task domains,C,https://ai.meta.com/research/publications/hyperagents/
 2026-05-07,Verifiable Search,DeepMind reports expanded real-world impact and infrastructure use of AlphaEvolve,B,https://deepmind.google/blog/alphaevolve-impact/
 2026-05-13,Verifiable Search,AEvo proposes meta-editing the search procedure or agent context,C,https://arxiv.org/abs/2605.13821
+2026-05-26,RSI,SIA jointly updates an agent harness and model weights across three task domains,C,https://arxiv.org/abs/2605.27276
+2026-06-09,RSI,A-Evolve-Training autonomously post-trains a 30B model over four multi-week rounds,C,https://arxiv.org/abs/2606.20657
 2026-06-18,Agent Control,Google DeepMind publishes its AI Control Roadmap,B,https://deepmind.google/blog/securing-the-future-of-ai-agents/
+2026-06-24,RSI,Red Queen Godel Machine co-evolves task agents and controlled evaluators,C,https://arxiv.org/abs/2606.26294
 2026-07-09,RSI,A survey separates bounded self-refinement from open-ended recursive self-improvement,C,https://arxiv.org/abs/2607.07663
 2026-07-21,RSI,Knowledge-Centric Self-Improvement makes curated transferable knowledge the persistent improvement substrate,C,https://arxiv.org/abs/2607.19592
 2026-08-04,RSI,PAST-Bench tests whether retained cross-session experience causally improves later agent behavior,C,https://arxiv.org/abs/2608.04003
 2026-08-25,RSI,Meta-n recursively builds executable meta-layers while keeping a universal meta-operation fixed,C,https://arxiv.org/abs/2608.24735
+2026-09-01,RSI,Self-Developing Agents benchmarks show visible self-improvement often fails to transfer to held-out tests,C,https://self-developing-agents.github.io/
 2026-09-06,RSI,OpenAI reports reaching an automated research intern milestone under human supervision,B,https://openai.com/index/research-acceleration-view-inside-openai/
 2026-09-10,RSI,A new position paper proposes a staged roadmap toward genuine RSI,C,https://arxiv.org/abs/2609.11873
 2026-09-14,Verifiable Search,AlgoEvo introduces experience-guided self-evolving agentic search,C,https://arxiv.org/abs/2609.15820
@@ -18,3 +22,4 @@ date,track,item,evidence,url
 2026-09-15,RSI,ScienceBuddy couples inner harness evolution with outer model reinforcement learning,C,https://arxiv.org/abs/2609.17523
 2026-09-18,RSI,Anthropic updates internal measurements of AI participation in model R&D,B,https://www.anthropic.com/institute/recursive-self-improvement
 2026-09-20,Decision Models,An independent repository publishes reproducible early Jev measurements,C,https://github.com/WallerChen/jev-measured
+2026-09-21,RSI,OpenAI states fully autonomous RSI is not happening while AI already accelerates parts of model R&D,B,https://openai.com/index/ai-policy-window/

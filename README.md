@@ -7,7 +7,7 @@
 3. **可验证搜索**：当答案可以自动评分时，Agent 能否持续搜索出更好的算法和工作流？
 4. **Agent Control**：长时间运行、拥有真实权限的 Agent 应该怎样被监控、限制和叫停？
 
-> 最后核验：2026-09-21。这个领域变化很快；本文档优先引用论文、实验室原始发布和可复现实验。
+> 最后核验：2026-09-23。这个领域变化很快；本文档优先引用论文、实验室原始发布和可复现实验。
 
 ## 一张图看懂四条线
 
@@ -41,6 +41,7 @@
 
 - [01 · RSI 与自动化 AI 研发](docs/01-rsi.md)
 - [2026 RSI 路线图：项目、证据与边界](docs/07-rsi-landscape-2026.md)
+- [RSI 成熟度审查：哪些进展已越过演示阶段](docs/08-rsi-maturity-review.md)
 - [02 · Jev 与专用决策模型](docs/02-decision-models.md)
 - [Jev 深度研究：证据、边界与落地测试](docs/06-jev-deep-dive.md)
 - [03 · 可验证搜索与 Agentic Evolution](docs/03-verifiable-search.md)
